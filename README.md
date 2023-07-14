@@ -1,7 +1,7 @@
 # Project-Funding-Approval-Prediction
 
 ## Blog Post:
-Please find a detailed blog on this case study here: Predictive Modeling for Educational Impact: Decoding Project Funding Approval
+Please find a detailed blog on this case study here: [Predictive Modeling for Educational Impact: Decoding Project Funding Approval](https://medium.com/@swayamdash123/predictive-modeling-for-educational-impact-decoding-project-funding-approval-422dde11cc9c)
 
 ## Problem Statement:
 This project aims to introduce a binary classification model that predicts the successful approval of the projects and securing funding.
